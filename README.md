@@ -25,6 +25,18 @@ Welcome! This portfolio showcases a selection of data projects that demonstrate 
 - Summarised revenue, analysed sales patterns, and created charts for business decisions
 - Practiced Excel reporting and presenting insights in a professional format
 
+### Sales Visualisation Using Matplotlib (Python)
+
+This project demonstrates the use of Matplotlib to create clear and informative data visualisations 
+from a simulated sales dataset. The objective was to present sales trends and comparisons using properly labelled charts suitable for business reporting.
+
+Key features include:
+- Creation of bar and/or line charts using Matplotlib
+- Use of descriptive titles and axis labels
+- Customisation of axis ticks for improved readability
+- Visual representation of sales and revenue insights
+
+
 ## Tools & Skills
 - Python: lists, dictionaries, functions, loops, OOP
 - SQL: querying, aggregation, filtering, joining
